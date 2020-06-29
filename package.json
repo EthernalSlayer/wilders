@@ -1,0 +1,14 @@
+{
+  "name": "wilders",
+  "version": "1.0.0",
+  "description": "\"a little app for test npm\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "EthernalSlayer",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
